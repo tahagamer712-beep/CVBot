@@ -1,0 +1,7 @@
+python-telegram-bot>=21,<22
+reportlab
+arabic-reshaper
+python-dotenv
+pypdf==6.20.1
+pillow
+httpx
